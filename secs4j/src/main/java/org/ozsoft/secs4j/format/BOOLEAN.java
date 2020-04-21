@@ -25,7 +25,7 @@ package org.ozsoft.secs4j.format;
 public class BOOLEAN implements Data<Boolean> {
 
     /** SECS format code. */
-    public static final int FORMAT_CODE = 0x10;
+    public static final int FORMAT_CODE = 0x24;
 
     /** Fixed length of 1 byte. */
     public static final int LENGTH = 1;
